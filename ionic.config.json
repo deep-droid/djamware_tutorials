@@ -1,5 +1,7 @@
 {
   "name": "ionic3-tab-swipe",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
